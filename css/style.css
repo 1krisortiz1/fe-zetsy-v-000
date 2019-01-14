@@ -84,19 +84,10 @@ footer {
 }
 
 #press img {
-    border: 5px
+    border: 5px #ccc solid;
     padding: 1px;
 }
 
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
-}
-
-#featured img {
-	border: 5px rgb(152,173,166) solid;
-}
-
-#featured a {
-	color: #1783bb;
-	text-decoration: none;
 }
