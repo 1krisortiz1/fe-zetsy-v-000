@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /*@import url(css/fonts/Baskerville.ttc);*/
-@@font-face {
+@font-face {
     font-family: 'Baskerville';
     src: url(../fonts/Baskerville.ttc);
 }
@@ -23,6 +23,6 @@ body {
 
 /* Write all remaining styles here */
 
- h1 {
-    color: green;
+ #logo {
+    background-color: aqua;
 }
