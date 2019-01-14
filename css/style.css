@@ -2,7 +2,7 @@
 
 /*@import url(css/fonts/Baskerville.ttc);*/
 @@font-face {
-    font-family: "Baskerville";
+    font-family: 'Baskerville';
     src: url(../fonts/Baskerville.ttc);
 }
 
@@ -35,7 +35,7 @@ h1 {
 }
 
 header a {
-    color: red;
+    color: rgb(;
     text-decoration: none;
 }
 
