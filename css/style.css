@@ -34,6 +34,12 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+
+
 /*///// H2 /////*/
 h2 {
     color: rgb(111,127,122);
